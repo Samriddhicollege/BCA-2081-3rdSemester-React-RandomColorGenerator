@@ -62,7 +62,7 @@ Random Color Generator is a modern color tool that lets users generate random co
 
 ```bash
 # Clone repository
-git clone https://github.com/Samriddhicollege/BCA-2081-3rdSem-ReactClass-RandomColorGenerator.git
+git clone https://github.com/Samriddhicollege/BCA-2081-3rdSemester-React-RandomColorGenerator
 
 # Go to project folder
 cd ReactProject/Aayush-Project
@@ -99,6 +99,12 @@ Aayush-Project/
 ├── package.json
 └── README.md
 ```
+
+---
+## GitHub & Live Demo
+
+* **GitHub Repository:** https://github.com/Samriddhicollege/BCA-2081-3rdSemester-React-RandomColorGenerator
+* **Live URL (if deployed):** https://randomcolorgenerator-one.vercel.app/
 
 ---
 
